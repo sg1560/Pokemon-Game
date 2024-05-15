@@ -1,0 +1,10 @@
+2/21, 11 AM: started assignment. Went through prof's code and tried to understand everything
+2/22, 11:30 AM: Began writing code for spawning npc's
+2/23, 2:00 PM: Finished writing the code for spawning npc's, found some bugs
+2/24, 4:00 PM: Fixed the bugs so that the map was getting printed correctly with the npc's/trainers
+2/26: 8:00 AM: Started writing code for moving trainers
+2/26: 8:00 PM: Wrote my own comparator, modified some of the characterMap code to implement with heap
+2/26, 4:30 PM: Ran into segmentation fault errors, wrote a lot of print statements
+2/26, 9:30 PM: Print statements didn't help, gave up
+2/27: 9:30 AM: Went through heap code to figure out what was going wrong
+2/28: 2:15 PM: Gave up on debugging 

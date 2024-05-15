@@ -1,0 +1,12 @@
+2/11, 11 AM: started assignment. Went through prof's code and tried to understand dijkstra structure
+2/12, 11:30 AM: Gave up on trying to understand prof's code. Read the textbook on dijkstra's algorithm
+2/12, 2:00 PM: Understood prof's code; started writing pseudocode to implement hiker map
+2/13, 4:00 PM: Started writing the actual code to implement hiker map
+2/14: 8:00 AM: Ran into malloc and seg fault bugs. Debugged
+2/14: 8:00 PM: Continued debugging, couldn't figure out what was going on
+2/15, 10:00 AM: Made some changes to insertion of nodes into heap; changed INT_max to SHRT_MAX
+2/15, 4:30 PM: Continued debugging, a couple of minor errors when generating neighbors
+2/15, 9:30 PM: Fixed bugs, started code for rival map
+2/16: 9:30 AM: Changed some names around for rival map
+2/16: 2:15 PM: Tested code extensively
+2/19: 4:30 PM: Couldn't figure out how to place pc near roads, so just placed on random spot. Finished assignment

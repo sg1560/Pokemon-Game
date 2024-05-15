@@ -1,0 +1,2 @@
+I used the professor's code. I couldn't figure out how to place the pc near a road, so I ended up just placing the pc at a random spot on the map. As a result, the pc is oftentimes placed on the border, so the cost map won't look correct if the pc
+is placed on a border (it will be all 67 which makes sense). Other than that, the dijkstra's algorithm should work for valid locations of the pc. 

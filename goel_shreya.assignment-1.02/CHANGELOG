@@ -1,0 +1,13 @@
+2/1, 11 AM: started assignment. Went through prof's code and tried to understand map structure
+2/2, 11:30 AM: started to write code to initalize world of pointers. Wrote while loop to accept input
+2/3, 2:00 PM: generated maps and printed maps to see if world was working correctly. Began to write conditions to check if in bounds
+2/3, 4:00 PM: wrote conditions to check if pointer is null, tested a lot
+2/4: 8:00 AM: modified generated maps method to allocate memory and create map. Ran into segmentation fault bug
+2/4: 8:00 PM: spent whole day debugging, figured out bug. Realized I messed up the translation of coordinate systems and arrays
+2/5, 10:00 AM: Fixed a lot of variables to translate coordinate systems and arrays correctly
+2/6, 4:30 PM: Implemented conditions to generate gates that line up by putting gates as parameter
+2/6, 9:30 PM: Ran into segmentation fault again, realized I messed up some variables being passed into array
+2/7: 9:30 AM: Implemented world boundary checks to ensure that gates don't appear on world edge maps
+2/7: 2:15 PM: Ran into a bug when doing fly command because it wasn't printing the array coordinates correctly
+2/7: 4:30 PM: Fixed bug. Implemented probability requirement 
+2/7: 7:00 PM: Tested all code extensively, finished assignment

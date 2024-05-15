@@ -1,0 +1,13 @@
+3/16, 11 AM: started assignment. Went through prof's code and tried to understand everything
+3/16, 11:30 AM: Began modifying code to make it use ncurses
+3/16, 2:00 PM: Finished modifying, found bugs
+3/17, 4:00 PM: Debugged for a lot of time; had to use mvaddch() instead of addch()
+3/18: 8:00 AM: Started writing code for moving the pc
+3/18, 4:30 PM: Ran into bugs; screen kept freezing, nothing moved at all (not even the npc's)
+3/18, 9:30 PM: Print statements didn't help, gave up
+3/19: 9:30 AM: Went through heap code to figure out what was going wrong
+3/19: 3:15 PM: Figured out bug, fixed it; continued writing cases for each of the keystrokes
+3/19: 4:15 PM: Cleaned up code to make it more cohesive and readable; implemented enums and arrays
+3/20: 8:00 AM: Started working on displaying trainer list
+3/20: 9:00 AM: Wrote the code, bugs with clearing the screen and printing output correctly
+3/20: 1:00 PM: Fixed bugs, display trainer list worked

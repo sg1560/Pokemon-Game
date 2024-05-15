@@ -1,0 +1,10 @@
+1/27 8:01pm: Started working on the assignment; made files and terrain array
+1/27 9:30 pm: Fixed errors with bounds checking so it compiles successfully; started working on generating terrain 
+1/28: 11 am: Ran into bugs resulting in infinite while loop; started debugging 
+1/28: 2 pm: Fixed bugs so that the map is generated correctly and randomly without any infinite while loops
+1/28: 2 pm: Implemented checks to ensure that there are at least 2 regions of grass, clearings, and water
+1/29: 11 am: Started to write code for building paths 
+1/29: 1 pm: Built roads successfully
+1/29: 2 pm: Started working on buildings, added trees to terrain
+1/29: 3 pm: Found bugs with generating buildings
+1/30: 4 pm: Debugged program to determine the problem with generating buildings; terrain array gets updated but doesn't print

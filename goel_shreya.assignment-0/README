@@ -1,0 +1,1 @@
+This is an implementation of the Knight's Tour problem, which finds all the possible Knight's Tour paths on a 5x5 grid. There are a total of 1728 paths, and this program lists all of them out with each path being on a separate line.

@@ -1,0 +1,3 @@
+I used the professor's code and changed things to make it compile in C++. I didn't change every single struct into a class, 
+rather I made the major things such as character, path, and map into a class and left a few things as a struct. It's converted
+to C++ now. 
